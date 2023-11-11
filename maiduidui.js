@@ -11,4 +11,4 @@
 ^https?:\/\/conf-darwin\.xycdn\.com url reject-dict
 ^https?:\/\/sdk1xyajs\.data\.kuiniuca\.com url reject
 
-hostname = sfo.mddcloud.com.cn, mob.mddcloud.com.cn, toblog.ctobsnssdk.com, t-dsp.pinduoduo.com, mobads-pre-config.cdn.bcebos.com, sdk1xyajs.data.kuiniuca.com,conf-darwin.xycdn.com,*.ubixioe.com
+hostname = sfo.mddcloud.com.cn,mob.mddcloud.com.cn,toblog.ctobsnssdk.com,t-dsp.pinduoduo.com,mobads-pre-config.cdn.bcebos.com,sdk1xyajs.data.kuiniuca.com,conf-darwin.xycdn.com,*.ubixioe.com
